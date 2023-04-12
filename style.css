@@ -1,0 +1,63 @@
+
+.bg{
+    height: 100% !important;
+    max-width:600px  !important;
+    
+}
+.icon{
+    display: inline-flex;
+}
+.nav{
+    padding-top: 1%;
+text-align: center;
+display: flex;
+justify-content: space-between;
+}
+.nav a{
+    text-decoration: none;
+    font-size: medium;
+    color: rgb(37, 36, 36);
+}
+.drop{
+    visibility: hidden;
+}
+h1,h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 50;
+}
+.one{
+position: absolute;
+top: -35%;
+left: 40%;
+z-index: -1;
+}
+.two{
+    position: absolute;
+    top: 10%;
+}
+.three{
+    position: absolute;
+    top: 28%;
+    left: 60%;
+}
+.four{
+    position: absolute;
+    top: 65%;
+    left: 50%; 
+}
+.five{
+    position: absolute;
+    top: 70%;
+    left: 30%;
+}
+.six{
+    position: absolute;
+    top: 108%;
+    left: 55%;
+}
+.sev{
+    position: absolute;
+    top:145%;
+    left: 30%;
+}
